@@ -1,3 +1,2 @@
-import "fmt"
 func main () {
 }
